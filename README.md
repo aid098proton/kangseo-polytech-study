@@ -48,4 +48,5 @@ smart-finance-study/
 
 화이팅입니다! 오늘도 같이 꾸준히 해봐요 ✨
 
-https://aid098proton.github.io/
+깃 허브 페이지
+https://aid098proton.github.io/aid098proton/
